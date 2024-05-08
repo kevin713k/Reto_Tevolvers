@@ -17,7 +17,6 @@ Este proyecto se automatizo empleando Python con Behave BDD, para compilar el pr
 + Visual Studio Code
 + Extensiones: 
     + Cucumber (Ayuda a visualizar logica Gherkin)
-    + Behave VSC
 
 Códigos para compilar el proyecto:
 + pip install behave
